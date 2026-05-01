@@ -1,4 +1,4 @@
-public class ThreadDemo {
+public class ThreadLambdaTask {
     public static void main(String[] args) {
 
         // ===== TODO 1 =====
